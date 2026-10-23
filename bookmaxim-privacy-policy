@@ -1,0 +1,82 @@
+Bookmaxim — Privacy Policy / Polityka prywatności
+================================================
+
+Effective 23 October 2026 / Obowiązuje od 23 października 2026 r.
+
+(Polska wersja poniżej.)
+
+
+ENGLISH
+-------
+
+Bookmaxim is an app by EmptyOne for collecting sentences from books. This policy describes what data the app processes and where it goes. In short: your quotes, notes and page photos stay on your phone.
+
+### Data that stays on your phone
+
+* Quotes, notes, books, colours, saved quotes, the autosuggestion and their history are stored only on your phone. The app has no accounts and no server and does not send this data anywhere.
+* Page photos: the text is read on the phone (Google ML Kit on-device text recognition). Photos are never uploaded and are deleted once the quotes are saved or the screen is closed.
+* A cover photo you take yourself is stored only on your phone.
+* Data export creates a file when you ask for it and hands it to wherever you share it (e.g. e-mail or a drive). Nothing is exported without your action.
+
+### Data that leaves your phone
+
+* Book search. When you search the catalogue for a book, the text you type (title, author or ISBN) is sent to Google Books (Google LLC) and Open Library (Internet Archive) to show results and covers; covers are downloaded from them. Quotes and notes are never sent. These services handle requests under their own terms: https://policies.google.com/privacy and https://archive.org/about/terms.php. You can add a book by hand without searching.
+* Google ML Kit diagnostics. The text recognition library sends Google diagnostics and usage statistics: the phone's model and OS, the app's name and version, a per-installation identifier (not meant to identify a person or device), performance metrics, image settings and size, error codes. It does not send photos or the recognised text. Data is encrypted in transit. Details: https://developers.google.com/ml-kit/android-data-disclosure
+
+### What the app does not do
+
+No ads, no accounts, no content analytics, no tracking. Your data is not sold or shared.
+
+### Deleting data
+
+Uninstalling the app or clearing its data in the phone's settings removes all of it. Single quotes, notes and books can be deleted in the app.
+
+### Children
+
+The app is not directed at children under 13.
+
+### Changes
+
+If the app starts handling data differently (e.g. an optional cloud backup), this policy and the date above will be updated.
+
+### Contact
+
+Email: mostlikelyto.mailbox@gmail.com
+
+
+POLSKI
+------
+
+Bookmaxim to aplikacja EmptyOne do zbierania zdań z książek. Ta polityka opisuje, jakie dane przetwarza aplikacja i gdzie one trafiają. W skrócie: twoje cytaty, notatki i zdjęcia stron zostają na twoim telefonie.
+
+### Dane, które zostają na telefonie
+
+* Cytaty, notatki, książki, kolory, zapisane cytaty, autosugestia i ich historia są zapisane wyłącznie w pamięci telefonu. Aplikacja nie ma kont ani serwera i nie wysyła tych danych nigdzie.
+* Zdjęcia stron: tekst ze zdjęcia jest odczytywany na telefonie (Google ML Kit, rozpoznawanie tekstu na urządzeniu). Zdjęcia nie są nigdzie wysyłane i są usuwane po zapisaniu cytatów albo zamknięciu ekranu.
+* Zdjęcie okładki, które zrobisz sam, jest zapisane tylko na telefonie.
+* Eksport danych tworzy plik na twoje polecenie i przekazuje go tam, gdzie go udostępnisz (np. do poczty lub na dysk). Bez twojej decyzji nic nie jest eksportowane.
+
+### Dane, które opuszczają telefon
+
+* Wyszukiwanie książek. Gdy szukasz książki w katalogu, wpisany tekst (tytuł, autor lub ISBN) jest wysyłany do Google Books (Google LLC) i Open Library (Internet Archive), aby pokazać wyniki i okładki. Okładki są pobierane z tych serwisów. Nigdy nie są wysyłane cytaty ani notatki. Te serwisy przetwarzają zapytania według własnych zasad: https://policies.google.com/privacy oraz https://archive.org/about/terms.php. Możesz dodać książkę ręcznie, bez wyszukiwania.
+* Diagnostyka Google ML Kit. Biblioteka rozpoznawania tekstu wysyła do Google dane diagnostyczne i statystyki użycia: model i system telefonu, nazwę i wersję aplikacji, identyfikator instalacji (nie identyfikuje osoby ani telefonu), czas działania, ustawienia i rozmiar przetwarzanego obrazu, kody błędów. Nie wysyła zdjęć ani odczytanego tekstu. Dane są szyfrowane podczas przesyłania. Szczegóły: https://developers.google.com/ml-kit/android-data-disclosure
+
+### Czego aplikacja nie robi
+
+Nie ma reklam, kont, analityki treści ani śledzenia. Nie sprzedaje i nie udostępnia twoich danych.
+
+### Usunięcie danych
+
+Wszystkie dane aplikacji usuniesz, odinstalowując ją lub czyszcząc jej dane w ustawieniach telefonu. Pojedyncze cytaty, notatki i książki usuniesz w aplikacji.
+
+### Dzieci
+
+Aplikacja nie jest skierowana do dzieci poniżej 13 lat.
+
+### Zmiany
+
+Gdy aplikacja zacznie przetwarzać dane inaczej (np. pojawi się opcjonalna kopia w chmurze), zaktualizujemy tę politykę i datę na górze.
+
+### Kontakt
+
+E-mail: mostlikelyto.mailbox@gmail.com
