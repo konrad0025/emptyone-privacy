@@ -1,46 +1,182 @@
-Privacy Policy  
-----------------
+Privacy Policy — Most Likely To
+===============================
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at EmptyOne, how EmptyOne uses it, and what choices you have.
-EmptyOne built the Most Likely To app as a free app. This SERVICE is provided by EmptyOne at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+Last updated: 12 November 2026
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+Most Likely To ("the app") is a party game made by EmptyOne ("we", "us").
+This policy explains what information the app uses, why, how long it is kept
+and what you can do about it. It covers the Android and iOS apps and the
+website mostlikelyto-a1cd0.web.app.
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+**In short:** there are no accounts, no ads and no analytics. To run a game
+the app sends your nickname, your profile picture (if you chose one), the
+questions you write and your votes to our game server, where they are visible
+to the players of that game and are deleted automatically within about 24
+hours.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+Contact: **mostlikelyto.mailbox@gmail.com**
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+1. Who is responsible
+---------------------
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+EmptyOne is the controller of the personal data described here.
+You can reach us at mostlikelyto.mailbox@gmail.com.
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+2. What the app uses and why
+----------------------------
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+### 2.1 Your player profile
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+- **A random player ID** created by the app on your phone the first time it
+  starts. It is not linked to your name, phone number, email or advertising ID.
+- **Nickname, colour and avatar frame** that you choose.
+- **Profile picture (optional).** If you take or pick a photo, it is
+  cropped and compressed on your phone. It is uploaded each time you create
+  or join a game, so the other players of that game can see it.
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: *[mostlikelyto.mailbox@gmail.com]*  
+Your profile is saved on your phone. When you join a game, a copy of it
+(ID, nickname, colour, frame and the address of your picture) is sent to our
+game server so the other players in that game can see who is playing.
+
+### 2.2 The game itself
+
+- **Questions you write** for a game.
+- **Your votes** in each round.
+- **A topic for AI questions** (optional, see 2.3).
+
+These are needed to run the game and show the results. They are visible to
+the players of that game only.
+
+### 2.3 AI-generated questions (optional, paid pack)
+
+If you use AI questions, the topic you type and the game's language are sent
+through our server to **OpenAI** to check the topic for harmful content and
+to write the questions. Your nickname, picture and player ID are not sent.
+OpenAI processes this on our behalf; under OpenAI's API terms the data is not
+used to train their models and may be kept by OpenAI for up to 30 days for
+abuse monitoring. Our own server logs only technical details (such as text
+length and error codes), never the topic or the questions.
+
+### 2.4 Sharing your result card
+
+At the end of a game you can tap **Share** to create a picture of your
+result. The picture is made on your phone only when you ask for it. It shows
+your nickname and picture, a question from the game and your vote count. If
+you tied with another player in that round, it also shows **their nickname
+and profile picture as they appear in the game**.
+
+You choose where the picture goes (for example Instagram, WhatsApp,
+Messenger, your gallery or another app). We do not upload it anywhere. Once
+you share it, the policy of the app you shared it to applies. Please share
+pictures of other players only if they are fine with it.
+
+### 2.5 Joining a game from a link
+
+- **Android:** if you install the app from a game link, Google Play passes
+  the game code to the app (install referrer) so it can open that game.
+- **iOS:** on the first start after installing, the app checks the clipboard
+  once for a game link that the website copied, so it can open that game.
+  Nothing else from the clipboard is used or sent anywhere.
+
+### 2.6 Purchases
+
+Packs are bought through Google Play or the App Store. We never receive your
+payment details. The app only keeps a note on your phone of which packs you
+own.
+
+### 2.7 Keeping the app genuine and working
+
+- **Firebase App Check** (Google Play Integrity on Android, Apple
+  DeviceCheck on iOS) confirms that requests come from the real
+  app, to protect the game server from abuse. Google and Apple process
+  device signals for this under their own terms.
+- The app checks the store for a **newer version** of itself and may show
+  the store's own **rating prompt**. We don't see whether or how you rate.
+
+### 2.8 Permissions
+
+- **Camera / photos:** only to take or pick your profile picture.
+- **Save to photos** (gallery): only when you tap Save on a result card.
+- **Tracking (iOS):** the app does not track you across other apps or
+  websites and does not use any advertising identifier.
+
+
+3. What we don't do
+-------------------
+
+- No accounts, no email, no phone number.
+- No location, no contacts.
+- No advertising, no analytics, no crash-reporting SDKs.
+- We don't sell or rent your information and don't use it for marketing.
+
+
+4. Who processes data for us
+----------------------------
+
+| Provider | What for | Data |
+|---|---|---|
+| Google Firebase (Google Cloud) | game server: real-time game, database, picture storage, server functions, App Check | profile copy, pictures, questions, votes |
+| OpenAI | AI questions (only if you use them) | topic and language |
+| Google Play / Apple App Store | downloads, purchases, updates, ratings | under their own privacy policies |
+
+Some of these providers may process data outside the European Economic Area
+(for example in the USA). Where that happens, they rely on the safeguards
+required by the GDPR, such as the EU Standard Contractual Clauses or the
+EU–US Data Privacy Framework.
+
+
+5. How long data is kept
+------------------------
+
+- **Game data on the server** (the game, players, questions, votes):
+  deleted automatically by a daily cleanup, about **24 hours** after the game
+  was created.
+- **Profile pictures on the server:** deleted automatically about **24
+  hours** after upload.
+- **On your phone:** your profile, settings, purchases and the last game's
+  rounds stay on your phone until you change them or delete the app.
+- **AI topics at OpenAI:** see 2.3.
+
+
+6. Your rights
+--------------
+
+Under the GDPR you can ask for access to your data, correction, deletion,
+restriction, data portability, and you can object to processing. Because
+server data is deleted within about 24 hours and is not linked to your name,
+in most cases it will already be gone; write to us at
+mostlikelyto.mailbox@gmail.com and we will help. Deleting the app removes
+everything stored on your phone.
+
+You also have the right to lodge a complaint with a data protection
+authority, in Poland the President of the Personal Data Protection Office
+(UODO, uodo.gov.pl), or the authority in your country.
+
+Legal basis: we process this data to provide the game you asked to use
+(Art. 6(1)(b) GDPR) and, for protecting the service from abuse, our
+legitimate interest (Art. 6(1)(f) GDPR).
+
+
+7. Children
+-----------
+
+The app is rated 16+ and is not meant for children under 16. We do not
+knowingly process data of children under 16. If you believe a child has used
+the app, contact us and we will delete what we can.
+
+
+8. Security
+-----------
+
+All data sent between the app and our server is encrypted (HTTPS). Access to
+the server is limited to the genuine app (App Check). No method is 100%
+secure, but we keep as little data as possible and delete it quickly.
+
+
+9. Changes to this policy
+-------------------------
+
+If we change this policy, we will publish the new version at this address
+and update the date at the top.
