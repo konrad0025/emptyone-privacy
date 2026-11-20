@@ -1,7 +1,7 @@
 Szlaban — Privacy Policy / Polityka prywatności
 ==============================================
 
-Effective 15 November 2026 / Obowiązuje od 15 listopada 2026 r.
+Effective 20 November 2026 / Obowiązuje od 20 listopada 2026 r.
 
 (Polska wersja poniżej.)
 
@@ -9,18 +9,18 @@ Effective 15 November 2026 / Obowiązuje od 15 listopada 2026 r.
 ENGLISH
 -------
 
-Szlaban is an app by EmptyOne that estimates when railway level-crossing barriers in Poland will close and open. This policy describes what data the app processes and where it goes. In short: you don't create an account, your crossings stay on your phone, and your location is never sent to us.
+Szlaban is an app by EmptyOne that estimates when railway level-crossing barriers in Poland will close and open. This policy describes what data the app processes and where it goes. In short: you don't create an account, your crossings stay on your phone, and your coordinates are never sent to us.
 
 ### Data that stays on your phone
 
 * The crossings you follow, their order and names, and your settings (e.g. the theme) are stored only on your phone.
-* Location: the app reads your location only when you ask for it ("Pokaż, gdzie jestem" on the map or "W pobliżu" in search), once, never in the background. It is used on the phone to centre the map and to find crossings near you. It is not stored and not sent to our server.
+* Location: the app reads your location only when you ask for it ("Pokaż, gdzie jestem" on the map, "W pobliżu" in search, or when you send a barrier report), once, never in the background. It is used on the phone to centre the map, to find crossings near you and to work out your distance to the crossing in a report. Your coordinates are not stored and not sent to our server.
 
 ### Data that leaves your phone
 
 * Train data. To estimate barrier times the phone asks our server (Google Firebase / Google Cloud, region europe-west1, Belgium) for trains on the track sections between the stations around the crossings you look at. The request contains station identifiers only. Like any website, the server sees your IP address in its technical logs; we don't link it to you. Train data comes from PKP Polskie Linie Kolejowe S.A. (Otwarte Dane Kolejowe).
 * Map. The map is provided by Google Maps (Google LLC). Showing it sends Google the usual technical data (e.g. IP address, device and app information) under Google's terms: https://policies.google.com/privacy
-* Test builds only — barrier reports. If you tap "Zgłoś, co widzisz", the report sent to our server contains: the time, what you saw (e.g. "Opada"), the app's forecast for that crossing, the crossing's identifier, your distance to it and the GPS accuracy (never your coordinates), a random identifier of the installation, the app version and your note if you add one. Reports are used only to calibrate forecasts and are deleted when calibration is done. Public builds don't have this feature.
+* Barrier reports (optional). Nothing is sent unless you tap "Zgłoś, co widzisz" and send a report. The report sent to our server contains: the time, what you saw (e.g. "Opada"), the app's forecast for that crossing, the crossing's identifier, your distance to it and the GPS accuracy (never your coordinates), a random identifier of the installation (not linked to you or your device's advertising ID), the app version and your note if you add one. Reports are stored on our server (Google Cloud, region europe-west1, Belgium), used only to calibrate forecasts, and deleted when calibration is done.
 
 ### What the app does not do
 
@@ -28,7 +28,7 @@ No ads, no accounts, no analytics, no tracking. Your data is not sold or shared.
 
 ### Deleting data
 
-Uninstalling the app or clearing its data in the phone's settings removes everything stored on the phone. Single crossings can be removed in the app. To have test reports deleted, write to us with the version shown in Ustawienia.
+Uninstalling the app or clearing its data in the phone's settings removes everything stored on the phone. Single crossings can be removed in the app. To have your reports deleted, write to us with the subject "Szlaban – usunięcie danych" and tell us roughly when and at which crossings you sent them; we delete them within 30 days.
 
 ### Children
 
@@ -46,18 +46,18 @@ mostlikelyto.mailbox@gmail.com
 POLSKI
 ------
 
-Szlaban to aplikacja EmptyOne, która szacuje, kiedy zamkną się i otworzą szlabany na przejazdach kolejowych w Polsce. Ta polityka opisuje, jakie dane przetwarza aplikacja i dokąd trafiają. W skrócie: nie zakładasz konta, Twoje przejazdy zostają na telefonie, a Twojej lokalizacji nigdy do nas nie wysyłamy.
+Szlaban to aplikacja EmptyOne, która szacuje, kiedy zamkną się i otworzą szlabany na przejazdach kolejowych w Polsce. Ta polityka opisuje, jakie dane przetwarza aplikacja i dokąd trafiają. W skrócie: nie zakładasz konta, Twoje przejazdy zostają na telefonie, a Twoich współrzędnych nigdy do nas nie wysyłamy.
 
 ### Dane, które zostają na telefonie
 
 * Obserwowane przejazdy, ich kolejność i nazwy oraz ustawienia (np. motyw) są zapisane tylko na Twoim telefonie.
-* Lokalizacja: aplikacja odczytuje ją tylko wtedy, gdy o to poprosisz („Pokaż, gdzie jestem” na mapie albo „W pobliżu” w wyszukiwaniu), jeden raz, nigdy w tle. Służy na telefonie do wyśrodkowania mapy i znalezienia przejazdów w pobliżu. Nie zapisujemy jej i nie wysyłamy na nasz serwer.
+* Lokalizacja: aplikacja odczytuje ją tylko wtedy, gdy o to poprosisz („Pokaż, gdzie jestem” na mapie, „W pobliżu” w wyszukiwaniu albo przy wysyłaniu zgłoszenia), jeden raz, nigdy w tle. Służy na telefonie do wyśrodkowania mapy, znalezienia przejazdów w pobliżu i policzenia Twojej odległości od przejazdu w zgłoszeniu. Twoich współrzędnych nie zapisujemy i nie wysyłamy na nasz serwer.
 
 ### Dane, które opuszczają telefon
 
 * Dane o pociągach. Żeby oszacować czasy, telefon pyta nasz serwer (Google Firebase / Google Cloud, region europe-west1, Belgia) o pociągi na odcinkach torów między stacjami wokół oglądanych przejazdów. Zapytanie zawiera tylko identyfikatory stacji. Jak każda strona internetowa, serwer widzi w logach technicznych adres IP; nie łączymy go z Tobą. Dane o pociągach pochodzą od PKP Polskie Linie Kolejowe S.A. (Otwarte Dane Kolejowe).
 * Mapa. Mapę dostarcza Google Maps (Google LLC). Jej wyświetlanie przekazuje Google zwykłe dane techniczne (np. adres IP, informacje o urządzeniu i aplikacji) na zasadach Google: https://policies.google.com/privacy
-* Tylko wersje testowe — zgłoszenia stanu szlabanu. Gdy stukniesz „Zgłoś, co widzisz”, zgłoszenie wysłane na nasz serwer zawiera: czas, to, co widzisz (np. „Opada”), prognozę aplikacji dla przejazdu, identyfikator przejazdu, Twoją odległość od niego i dokładność GPS (nigdy współrzędnych), losowy identyfikator instalacji, wersję aplikacji i Twoją notatkę, jeśli ją dodasz. Zgłoszenia służą tylko do kalibracji prognoz i są usuwane po jej zakończeniu. Wersje publiczne nie mają tej funkcji.
+* Zgłoszenia stanu szlabanu (dobrowolne). Nic nie jest wysyłane, dopóki nie stukniesz „Zgłoś, co widzisz” i nie wyślesz zgłoszenia. Zgłoszenie wysłane na nasz serwer zawiera: czas, to, co widzisz (np. „Opada”), prognozę aplikacji dla przejazdu, identyfikator przejazdu, Twoją odległość od niego i dokładność GPS (nigdy współrzędnych), losowy identyfikator instalacji (niepowiązany z Tobą ani z identyfikatorem reklamowym urządzenia), wersję aplikacji i Twoją notatkę, jeśli ją dodasz. Zgłoszenia są przechowywane na naszym serwerze (Google Cloud, region europe-west1, Belgia), służą tylko do kalibracji prognoz i są usuwane po jej zakończeniu.
 
 ### Czego aplikacja nie robi
 
@@ -65,7 +65,7 @@ Bez reklam, bez kont, bez analityki, bez śledzenia. Twoich danych nie sprzedaje
 
 ### Usuwanie danych
 
-Odinstalowanie aplikacji albo wyczyszczenie jej danych w ustawieniach telefonu usuwa wszystko, co jest na telefonie. Pojedyncze przejazdy usuniesz w aplikacji. Żeby usunąć zgłoszenia testowe, napisz do nas, podając wersję widoczną w Ustawieniach.
+Odinstalowanie aplikacji albo wyczyszczenie jej danych w ustawieniach telefonu usuwa wszystko, co jest na telefonie. Pojedyncze przejazdy usuniesz w aplikacji. Żeby usunąć swoje zgłoszenia, napisz do nas z tematem „Szlaban – usunięcie danych” i podaj mniej więcej, kiedy i przy jakich przejazdach je wysyłałeś; usuniemy je w ciągu 30 dni.
 
 ### Dzieci
 
