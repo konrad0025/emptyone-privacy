@@ -14,7 +14,7 @@ Szlaban is an app by EmptyOne that estimates when railway level-crossing barrier
 ### Data that stays on your phone
 
 * The crossings you follow, their order and names, and your settings (e.g. the theme) are stored only on your phone.
-* Location: the app reads your location only when you ask for it ("Pokaż, gdzie jestem" on the map, "W pobliżu" in search, or when you send a barrier report), once, never in the background. It is used on the phone to centre the map, to find crossings near you and to work out your distance to the crossing in a report. Your coordinates are not stored and not sent to our server.
+* Location: the app reads your location only when you ask for it ("Pokaż, gdzie jestem" on the map, "W pobliżu" in search, or when you open "Zgłoś, co widzisz" for a barrier report), once, never in the background. It is used on the phone to centre the map, to find crossings near you and to work out your distance to the crossing in a report. Your coordinates are not stored and not sent to our server.
 
 ### Data that leaves your phone
 
@@ -51,7 +51,7 @@ Szlaban to aplikacja EmptyOne, która szacuje, kiedy zamkną się i otworzą szl
 ### Dane, które zostają na telefonie
 
 * Obserwowane przejazdy, ich kolejność i nazwy oraz ustawienia (np. motyw) są zapisane tylko na Twoim telefonie.
-* Lokalizacja: aplikacja odczytuje ją tylko wtedy, gdy o to poprosisz („Pokaż, gdzie jestem” na mapie, „W pobliżu” w wyszukiwaniu albo przy wysyłaniu zgłoszenia), jeden raz, nigdy w tle. Służy na telefonie do wyśrodkowania mapy, znalezienia przejazdów w pobliżu i policzenia Twojej odległości od przejazdu w zgłoszeniu. Twoich współrzędnych nie zapisujemy i nie wysyłamy na nasz serwer.
+* Lokalizacja: aplikacja odczytuje ją tylko wtedy, gdy o to poprosisz („Pokaż, gdzie jestem” na mapie, „W pobliżu” w wyszukiwaniu albo przy otwarciu okna „Zgłoś, co widzisz”), jeden raz, nigdy w tle. Służy na telefonie do wyśrodkowania mapy, znalezienia przejazdów w pobliżu i policzenia Twojej odległości od przejazdu w zgłoszeniu. Twoich współrzędnych nie zapisujemy i nie wysyłamy na nasz serwer.
 
 ### Dane, które opuszczają telefon
 
